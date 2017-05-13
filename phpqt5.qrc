@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/phpqt5.png</file>
+        <file>images/php.png</file>
+        <file>phpqt5.mimetypes.xml</file>
+        <file>images/paw.png</file>
+    </qresource>
+</RCC>

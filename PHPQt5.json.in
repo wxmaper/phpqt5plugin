@@ -1,0 +1,11 @@
+{
+    \"Name\" : \"PHPQt5\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"WxMaper\",
+    \"Copyright\" : \"(C) WxMaper\",
+    \"License\" : \"MPL 2.0\",
+    \"Description\" : \"QtCreator plugin for the PHPQt5\",
+    \"Url\" : \"http://phpqt.ru\",
+    $$dependencyList
+}

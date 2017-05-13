@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+
+    <mime-type type="application/x-phpqt5-project">
+        <sub-class-of type="application/json"/>
+        <comment>PHPQt5 project file</comment>
+        <glob pattern="*.phpqt5"/>
+    </mime-type>
+
+    <mime-type type="application/x-php">
+        <sub-class-of type="text/plain"/>
+        <comment>PHPQt5 source file</comment>
+        <glob pattern="*.php"/>
+    </mime-type>
+</mime-info>
